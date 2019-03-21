@@ -1,0 +1,177 @@
+[
+  {
+    "character": "Han Solo",
+    "img": "rs-218584-1-han-f4c9a887-81df-4c58-b166-94ab4485286b.jpg",
+    "id": 1,
+    "description": "Han Solo is a fictional character in the Star Wars franchise, who is a pilot from the planet Corellia. A primary character in the original film trilogy, Han is the captain of the Millennium Falcon, along with his Wookiee co-pilot Chewbacca, whereby both pilots became involved in the Rebel Alliance's struggle against the Galactic Empire. During the course of the Star Wars narrative, Han becomes a chief figure in the Alliance and the love interest of Princess Leia. In the sequel trilogy, Han is Leia's estranged husband and the father of fallen Jedi Kylo Ren. Harrison Ford portrayed Han in the original Star Wars trilogy as well as the first film in the sequel trilogy. Mythologist Joseph Campbell said of the character, \"He thinks he's an egoist; but he really isn't. ... there's something else pushing [him].\" In 1997, creator of the franchise George Lucas described Han as \"a cynical loner who realizes the importance of being part of a group and helping for the common good\". Alden Ehrenreich portrayed a young Han in the 2018 spin-off film Solo: A Star Wars Story. Additionally, the character is the subject of many books, comics and other media based on the franchise.",
+    "portray": "Harrison Ford"
+  },
+  {
+    "character": "Darth Vader",
+    "img": "Darth-Vader_6bda9114.jpeg",
+    "id": 2,
+    "description": "Darth Vader is a fictional character in the Star Wars franchise. He is a primary antagonist in the original trilogy, but, as Anakin Skywalker, is the main protagonist of theprequel trilogy. Star Wars creator George Lucas has collectively referred to the first six episodic films of the franchise as \"the tragedy of Darth Vader. The original trilogy created the impression that the franchise was chronicling Luke Skywalker’s journey from daydreaming teenager to the galaxy-saving Chosen One. But the prequels provocatively shifted that narrative: What if the Star Wars universe is really about the rise, fall and eventual redemption of Luke’s father? Continuing Hollywood’s fascination with origin stories, the second cycle of movies deepened our understanding of the man who would become Darth Vader — showing how an impressionable, slightly snotty kid named Anakin Skywalker discovered his Jedi powers, fell in love with a beautiful princess and was then seduced by the Dark Side. Complain about Jake Lloyd and Hayden Christensen’s bratty performances all you want — and you should, they’re terrible — but that central idea remains potent, and it powerfully informs audiences’ subsequent viewings of the original trilogy. Now, Darth Vader isn’t just a compelling force of evil, one of cinema’s most magnetic villains: He’s a tragic figure crying out to be saved.",
+    "portray": "David Prowse"
+  },
+  {
+    "character": "Boba Fett",
+    "img": "rs-218587-3-boba-fett-9dce897b-f605-4fae-9de7-dfbf95ab1a2d-1024x586.jpg",
+    "id": 3,
+    "description": "Everyone’s favorite intergalactic bounty hunter made his first canonical appearance in The Empire Strikes Back, chasing down Han Solo for Jabba the Hutt. But even before that, Boba Fett was well-known to the Star Wars hardcore, who’d seen the character march in a California parade and pop up in animated form in the notorious Star Wars Holiday Special — both in 1978. Jango’s little boy-clone was a hit before he’d even really done anything on the big screen. And given that he’s barely in the original trilogy, some may wonder why he’s so popular. So we’ll say it again: Intergalactic. Bounty. Hunter. Throw in the armor and the rocket launcher, and it’s no wonder that Lucas felt compelled to make the Fett family so integral to the prequels. Some characters demand to get off the side of the stage and into the thick of the action.",
+    "portray": ""
+  },
+  {
+    "character": "Yoda",
+    "img": "rs-218589-4-yoda-6a430ef2-4be5-43d5-8614-e743ca7b2f69.jpg",
+    "id": 4,
+    "description": "Like a lot of good mentors, Yoda doesn’t make things easy on his pupils, expecting them to figure out things on their own rather than spoon-feeding them important life lessons. (How else to explain a character who refuses to speak in the traditional subject-verb order?) Introduced in The Empire Strikes Back, the diminutive Jedi master remains one of the most remarkable non-human characters ever created, one who the Muppeteer Frank Oz immediately connected with. (“[Jim Henson] showed me a sketch of Yoda — and it felt right,” he would later explain. “Sometimes you have to work at something before you have that feeling, but this felt really good.”) By avoiding computer effects, Lucas and his team made Yoda seem as real as Luke, creating a warm father-son rapport between the characters that’s crucial to Empire‘s emotional arc. For the prequels, Lucas went with soulless CGI version: Not a good decision, it was. ",
+    "portray": ""
+  },
+  {
+    "character": "Princess Leia",
+    "img": "rs-218591-5-leia-a09cab78-e7a1-4be4-b437-99a1d7d4d280.jpg",
+    "id": 5,
+    "description": "When studio heads pay lip service to the importance of creating “proactive” female protagonists for their blockbusters, it shows how far Hollywood remains behind Lucas’ conception of Princess Leia from almost 40 years ago. Luke and Han may be the central heroes of the original trilogy; it’s Leia, however, who provides its heart, which doesn’t mean she isn’t capable with a blaster. The late, great Carrie Fisher turns her every line of dialogue into a mocking jab, refusing to let the smart, spitfire character settle into simply being a Death Star damsel-in-distress. It’s impossible to erase the fact that she and Luke kiss in the first film (and, er, the second film), but what’s great about her love story with Han in The Empire Strikes Back is that it feels like a relationship of equals, the two strongest-willed people in the galaxy realizing they’re nuts about one another. ",
+    "portray": ""
+  },
+  {
+    "character": "Luke Skywalker",
+    "img": "rs-218592-6-luke-cd70ba0f-828e-4231-9c8d-f8d6ab92a07b.jpg",
+    "id": 6,
+    "description": "Han Solo is the bigger badass, but the original trilogy’s actual hero is the franchise’s most stealthily fascinating character. Talk all you like about the Joseph Campbell-style “hero’s journey,” but what makes a restless farmboy such a strong anchor for this space opera is that even after he’s mastered The Force, he still seems like one of us. The pivotal player in a decades-old interplanetary struggle for democracy, Luke is both compassionate and temperamental — and never sure if he’s using his powers the right way. Anyone who thinks of Star Wars as a simplistic story of good and evil needs to look more closely at the young Skywalker, who always seems to be on the brink of turning dark, even when he’s saving the day. ",
+    "portray": ""
+  },
+  {
+    "character": "Rey",
+    "img": "d286b7fef2299a600fe7de3776b32f74319d2cc5-4c1a69ff-e61f-417d-949c-5b9bab9dde3d.jpg",
+    "id": 7,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "R2-D2 ",
+    "img": "rs-218664-7-r2d2-cc3a79ac-5212-4452-852d-27eacea91652.jpg",
+    "id": 8,
+    "description": "While his partner frets, nags, and offers the occasional translation, our favorite compact, diminutive friend bloops and bleeps the gang out of sticky situations. Need a wingman in aerial dogfights against the Imperial Fleet? Bleep-bloop-bleep. Garbage compactor mere seconds away from crushing the heroes of the Rebel Alliance? Bleep-bloop-bloop-bleep. A disembodied, discombobulated C-3PO wriggling on the ground, in need of rescue — again? Bloop-bloop-whistle. R2-D2 gets it the fuck done. The droid can even be outfitted to serve drinks. Along with Yoda, he’s perhaps the only Star Wars character to be a paragon of excellence in both the prequels and the original trilogy, and the surest way out of a jam. Only con: Easily tipped over. ",
+    "portray": ""
+  },
+  {
+    "character": "Obi-Wan Kenobi",
+    "img": "rs-218594-8-obi-ef845d1a-d36a-47c0-8042-96b473605bc9.jpg",
+    "id": 9,
+    "description": "Though Ewan McGregor put the “wan” in Obi-Wan Kenobi in the prequels, the Jedi Knight personifies the patience, wisdom, and discipline required to harness the Force. Alec Guinness’ well-known contempt for Star Wars aside, his gravitas as “Old Ben” Kenobi in the original film defined what Lucas felt a hero ought to be — a standard for courage and decency that Anakin and Luke Skywalker followed to widely varying degrees of success. For all their faults, the prequels gave the elder statesman for the Force a backstory that legitimately deepens the character, explaining why he’s so cautious in bringing Luke along and why he carries such regret for his failures with Anakin. All that’s missing is a how-to on the “Jedi mind trick.”",
+    "portray": ""
+  },
+  {
+    "character": "BB-8",
+    "img": "bb-8_14e2ad77-68056ba6-7933-428b-b876-010957a8b049.jpg",
+    "id": 10,
+    "description": "The rolling droid who accompanies the human adventurers of The Force Awakens manages to make metal seem cuddly, earning him (it?) insta-fan-favorite status – especially with the franchise’s youngest viewers. Unlike past kiddie characters like Jar-Jar Binks, however, our spherical hero has great comic timing; the mechanical thumbs-up he shoots at Rey when he helps the ex-stormtrooper gets one of the movie’s biggest laughs. Which shouldn’t come as a huge surprise: Comedians Bill Hader and Ben Schwartz provided the digitized “voice” that brought director J.J. Abrams and special-effects artist Neal Scanlan’s creation to life. ",
+    "portray": ""
+  },
+  {
+    "character": "Darth Maul",
+    "img": "rs-218597-10-darth-maul-f7404aae-41a5-46bf-8422-6cedebde95d8.jpg",
+    "id": 11,
+    "description": "Real talk: Darth Maul was a pioneer. A man of few words, the Sith Lord with the Rorschach ink blot of a face was the first guy to break the mold on light-sabers, his double-bladed weapon paving the way for Kylo Ren’s cross-sword beam in The Force Awakens. Even more importantly, he also inspired millions of Star Wars fans to ignore the fact that the most anticipated movie of all time was borderline unwatchable. Refreshingly comfortable in his own skin for a series in which the villains are so often hiding their face or cloaking their true intentions, Darth Maul radiates pure evil through his jaundiced yellow eyeballs; George Lucas has described the big bad of The Phantom Menace as “a figure from one of his darkest nightmares.”",
+    "portray": ""
+  },
+  {
+    "character": "C-3PO",
+    "img": "rs-218599-11-C-3PO.jpg",
+    "id": 12,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Lando Calrissian",
+    "img": "rs-218596-9-Lando.jpg",
+    "id": 13,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "K-2SO",
+    "img": "static1squarespace-307b0d03-c463-4fca-a9fc-dcff6fa23849.jpg",
+    "id": 14,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Greedo",
+    "img": "rs-218601-12-greedo-8b70aad0-a812-41f8-a3fc-ed4044347a24-1024x585.jpg",
+    "id": 15,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Jabba the Hut",
+    "img": "rs-218603-13-jabba-c6baa8b5-e9c6-49cb-af0c-51d9e2461489.jpg",
+    "id": 16,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Chewbacca",
+    "img": "rs-218604-14-Chew.jpg",
+    "id": 17,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Grand Moff Tarkin",
+    "img": "rs-218608-15-Tarkin.jpg",
+    "id": 18,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Mace Windu",
+    "img": "rs-218612-16-Windu-2.jpg",
+    "id": 19,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "The Emperor",
+    "img": "rs-218611-17-Emp.jpg",
+    "id": 20,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Chirrut Îmwe",
+    "img": "11-33743d71-d689-44a3-9886-4523e804a173-1024x591.jpg",
+    "id": 21,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Kylo Ren",
+    "img": "kylo-ren_fa163069-3dbaebc4-cc90-416a-8e13-24204ceb753a.jpg",
+    "id": 22,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Finn",
+    "img": "finn-main_952e10d2-db8b1a05-f380-4225-8ca2-4580b3976369.jpg",
+    "id": 23,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Admiral Ackbar",
+    "img": "rs-218635-18-ackbar-b6dfad9a-3296-4a9e-ba4a-16b756d7b962.jpg",
+    "id": 24,
+    "description": "",
+    "portray": ""
+  },
+  {
+    "character": "Bib Fortuna",
+    "img": "rs-218639-19-bib_fortuna.jpg",
+    "id": 25,
+    "description": "",
+    "portray": ""
+  }
+]
