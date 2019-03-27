@@ -1,0 +1,17 @@
+.App header {
+    color: #fff;
+    background-color: #282c34;
+}
+
+.App-logo {
+    height: 10vmin;
+    pointer-events: none;
+}
+a.btntreck{
+    background: #fff;
+}
+
+.title{
+    width: 77%;
+    letter-spacing: 3px;
+}

@@ -1,0 +1,13 @@
+.Root{
+    width: 70%;
+    margin: 1em auto;
+}
+
+.Root table thead th{
+    background: #626469;
+    color: #fff;
+}
+
+.row:nth-of-type(odd) {
+    background: #ECECEC;
+}
